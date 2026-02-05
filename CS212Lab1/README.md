@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Lab 1 is just a simple 'Hello World' program in Java
 
 ## Folder Structure
 
